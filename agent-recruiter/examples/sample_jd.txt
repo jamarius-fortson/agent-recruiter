@@ -1,0 +1,24 @@
+Senior Python Engineer — Acme Corp
+
+We're looking for a Senior Python Engineer to join our AI Platform team.
+You'll build and scale multi-agent systems that power our core product.
+
+Requirements:
+- 5+ years of Python experience
+- Strong experience with FastAPI or Django REST Framework
+- Experience with distributed systems and microservices
+- Proficiency with AWS (EC2, Lambda, S3, DynamoDB)
+- Experience with PostgreSQL or similar RDBMS
+- Solid understanding of CI/CD pipelines
+
+Nice to have:
+- Experience with LangGraph, CrewAI, or other agent frameworks
+- Open source contributions
+- Experience with Kubernetes and Docker
+- Background in ML/AI applications
+
+Responsibilities:
+- Design and build multi-agent AI pipelines
+- Own the API layer serving 10M+ requests/day
+- Mentor junior engineers
+- Participate in architecture decisions
