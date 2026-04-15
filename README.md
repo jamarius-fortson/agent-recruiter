@@ -390,7 +390,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <div align="center">
 
-**[agent-recruiter](https://github.com/daniellopez882/agent-recruiter)** by [Daniel López Orta](https://github.com/daniellopez882)
+**[agent-recruiter](https://github.com/daniellopez882/agent-recruiter)** by [Jamarius](https://github.com/jamarius-fortson)
 
 *Five agents. One shortlist. Zero recruiter fatigue.*
 
